@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F7A6FF&center=true&vCenter=true&width=500&lines=Hey+👋,+I'm+Sneha;Web+Enthusiast+%7C+Learner+%7C+Problem+Solver;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=8000&color=F7A6FF&center=true&vCenter=true&width=500&lines=Hey+👋,+I'm+Sneha;Web+Enthusiast+%7C+Learner+%7C+Problem+Solver;Welcome+to+my+GitHub!">
 </p>
 
 <h3 align="center">🌐 Web Enthusiast | 📚 Learner | 🧩 Problem Solver</h3>
@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="coding gif">
+  <img src="[https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBxMWh0eHRxMjhmMHI3cmNyN255cHZyNXRpaHg5MjgyOW5wOXl5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VgSjnwSoqiPjRRIJ1F/giphy.gif)" width="500" alt="coding gif">
 </p>
 
 ---
