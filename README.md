@@ -1,5 +1,14 @@
-<h1 align="center">Hey 👋, I'm Sinn Sneha</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F7A6FF&center=true&vCenter=true&width=500&lines=Hey+👋,+I'm+Sneha;Web+Enthusiast+%7C+Learner+%7C+Problem+Solver;Welcome+to+my+GitHub!">
+</p>
+
 <h3 align="center">🌐 Web Enthusiast | 📚 Learner | 🧩 Problem Solver</h3>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="coding gif">
+</p>
 
 ---
 
@@ -17,14 +26,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </div>
 
-
-
 **Backend:**  
 <div align="center">
   <i>Still learning! 😄</i>
 </div>
-
-
 
 **Tools & Platforms:**  
 <div align="center">
@@ -47,4 +52,5 @@
   <a href="https://www.instagram.com/snehasss._?igsh=Y2xvY3NieXphb3Q3" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="mailto:sinnsneha738@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </div>
+
 
