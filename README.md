@@ -1,5 +1,6 @@
-<h1 align="center">Hey 👋, I'm Sneha</h1>
+<h1 align="center">Hey 👋, I'm Sinn Sneha</h1>
 <h3 align="center">🌐 Web Enthusiast | 📚 Learner | 🧩 Problem Solver</h3>
+
 ---
 
 ## 🚀 About Me
@@ -12,17 +13,19 @@
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-<p>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+</div>
 
 **Backend:**  
-> Still learning! 😄
+<div align="center">
+  <i>Still learning! 😄</i>
+</div>
 
 **Tools & Platforms:**  
-<p>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+</div>
 
 ---
 
@@ -31,6 +34,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sinnsneha&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinnsneha&theme=tokyonight" height="165">
 </p>
+
+---
+
+## 🌐 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/sneha-s-a53033344" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.instagram.com/snehasss._?igsh=Y2xvY3NieXphb3Q3" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="mailto:sinnsneha738@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</div>
+
 
 ---
 
