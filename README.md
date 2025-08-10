@@ -17,10 +17,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </div>
 
+
+
 **Backend:**  
 <div align="center">
   <i>Still learning! 😄</i>
 </div>
+
+
 
 **Tools & Platforms:**  
 <div align="center">
@@ -43,14 +47,4 @@
   <a href="https://www.instagram.com/snehasss._?igsh=Y2xvY3NieXphb3Q3" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="mailto:sinnsneha738@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </div>
-
-
----
-
-## 🌐 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/sneha-s-a53033344" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/snehasss._?igsh=Y2xvY3NieXphb3Q3" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="mailto:sinnsneha738@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
 
