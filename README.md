@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=8000&color=F7A6FF&center=true&vCenter=true&width=500&lines=Hey+👋,+I'm+Sneha;Web+Enthusiast+%7C+Learner+%7C+Problem+Solver;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=8000&color=F7A6FF&center=true&vCenter=true&width=700&height=80&lines=Hey+👋,+I'm+Sinn+Sneha;Web+Enthusiast+%7C+Learner+%7C+Problem+Solver;Welcome+to+my+GitHub!">
 </p>
 
 <h3 align="center">🌐 Web Enthusiast | 📚 Learner | 🧩 Problem Solver</h3>
@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBxMWh0eHRxMjhmMHI3cmNyN255cHZyNXRpaHg5MjgyOW5wOXl5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VgSjnwSoqiPjRRIJ1F/giphy.gif)" width="500" alt="coding gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZxNnl3MmVqbmpnendoaTAya2VtZmFkNXhkaXp5aGNtNTlxNHpiNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1ym5LJ17vp77BL8X5O/giphy.gif" width="700" alt="coding gif">
 </p>
 
 ---
@@ -22,19 +22,19 @@
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
-</div>
+</p>
 
 **Backend:**  
-<div align="center">
+<p align="center">
   <i>Still learning! 😄</i>
-</div>
+</p>
 
 **Tools & Platforms:**  
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</div>
+</p>
 
 ---
 
@@ -47,10 +47,11 @@
 ---
 
 ## 🌐 Connect with Me
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/sneha-s-a53033344" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://www.instagram.com/snehasss._?igsh=Y2xvY3NieXphb3Q3" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="mailto:sinnsneha738@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</div>
+</p>
+
 
 
