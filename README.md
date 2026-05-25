@@ -28,11 +28,6 @@
 
 **Backend:**  
 <p align="center">
-  <i>Still learning! 😄</i>
-</p>
-
-**Languages & Databases:**  
-<p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
@@ -67,5 +62,3 @@
   <a href="https://www.instagram.com/snehasss._?igsh=Y2xvY3NieXphb3Q3" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="mailto:sinnsneha738@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
-
-
